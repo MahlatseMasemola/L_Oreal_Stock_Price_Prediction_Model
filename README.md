@@ -1,1 +1,1 @@
-# Stocking-Up-on-L-Or-al-A-Prediction-Model
+# Stocking-Up On L'Oreal: A Prediction-Model
